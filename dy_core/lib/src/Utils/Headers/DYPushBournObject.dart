@@ -1,0 +1,3 @@
+class DYPushBournObject {
+  dynamic data;
+}
